@@ -2,6 +2,6 @@
 
 #ruby version - ruby 2.4.2
 
-#run program from command line - ruby main.rb log.txt
-
-#run specs - rspec spec/
+# run program from command line - ruby main.rb log.txt
+# gem install rspec
+# run specs - rspec spec/
